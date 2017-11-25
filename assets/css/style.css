@@ -31,7 +31,8 @@ body, html {
 }
 
 h1 {
-	background-color: #bf763b;
+    margin: auto;
+    background-color: #bf763b;
 	max-width: 20%;
 	padding: 20px;
 	margin: 10px;
