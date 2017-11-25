@@ -1,7 +1,7 @@
 //document.ready to load once page loads//
 $(document).ready(function() {
-	alert('Game Start!');
-//vars//
+    alert('Game Start!');
+    //vars//
     var targetNumber = Math.floor(Math.random() * 101 + 19);
     var wins = 0;
     var losses = 0;
@@ -94,5 +94,3 @@ $(document).ready(function() {
         }
     });
 });
-
-
