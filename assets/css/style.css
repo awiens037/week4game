@@ -1,0 +1,102 @@
+body, html {
+    background: url("../images/background.jpeg");
+	background-size: cover;
+}
+
+.crystalPic {
+	height: 100px;
+  	width:100px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+#Ruby {
+	border-color: red;
+}
+
+#Sapphire {
+	border-color: blue;
+}
+
+#Emerald {
+	border-color: green;
+}
+
+
+#YellowGem{
+	border-color: yellow;
+}
+
+h1 {
+	background-color: #bf763b;
+	max-width: 20%;
+	padding: 20px;
+	margin: 10px;
+	border-radius: 10px;
+	color: white;
+	font-size: 25px;
+    font-weight: bold;
+}
+
+h2 {
+	background-color: #f8e7cf;
+	max-width: 35%;
+	margin:10px;
+	padding: 5px;
+	padding-bottom: 0px;
+	padding-top: 10px;
+	border-radius: 5px;
+	color: green;
+	font-size: 15px;
+	font-weight: bold;
+
+}
+h3 {
+	float: left;
+    background-color: green;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-left: 5px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 5px;
+    width: auto;
+    height: 100px;
+    color: black;
+    font-size: 25px;
+}
+
+h4 {
+	float: left;
+    text-align: left;
+    background-color: lightblue;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 5px;
+    width: auto;
+    margin: auto;
+    margin-left: 10px;
+    color: black;
+    font-size: 25px;
+}
+
+h5 {
+	float: left;
+	text-align: left;
+	background-color: green;
+	max-width: 40%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin-left: 10px;
+    margin-top: 0px;
+    border-radius: 5px;
+    color: white;
+    font-size: 25px;
+}
